@@ -2,9 +2,8 @@
 
 
 - 🔭 Hoje estou à procura de uma vaga de estágio dentro da área 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript/React
 - 📫 Contato: lucasoliveirasantiago3@gmail.com
-- 😄 Pronouns: ele/dele
 - ⚡ Fun fact: Estou estudando tecnologia em uma cidade que sua última preocupação é tecnologia... 👌
 
 
