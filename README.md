@@ -1,8 +1,6 @@
 ### Hi there, sou Lucas Santiago ✌
 
 
-- 🔭 Hoje estou à procura de uma vaga de estágio dentro da área 
-- 🌱 Estudando JavaScript/React
 - 📫 Contato: lucasoliveirasantiago3@gmail.com
 - ⚡ Fun fact: Estou estudando tecnologia em uma cidade que sua última preocupação é tecnologia... 👌
 
