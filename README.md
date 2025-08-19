@@ -1,8 +1,10 @@
-### Hi there, sou Lucas Santiago ✌
+### Hi there, sou Santiago ✌
 
 
-- 📫 Contato: lucasoliveirasantiago3@gmail.com
-- ⚡ Fun fact: Estou estudando tecnologia em uma cidade que sua última preocupação é tecnologia... 👌
+- 📫 **Contato:** lucasoliveirasantiago3@gmail.com | [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-santiago-343422238/)  
+- ⚡ **Fun fact:** Estudante de Engenharia de Software em uma cidade com pouca cultura tecnológica  
+- 😎 **Projetos e estudos:** Desenvolvo projetos pessoais, estudos da faculdade e meu TCC  
+- 👌 **Atuação profissional:** Freelancer criando soluções e realizando manutenções; atualmente programo em **JavaScript**
 
 
 <div align="center">
